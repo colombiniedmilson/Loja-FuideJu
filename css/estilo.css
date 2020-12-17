@@ -34,7 +34,7 @@ footer {
 
 @media only screen and (max-width:500px) {
     /* For mobile phones: */
-    .menu,
+    #navbarResponsive .menu,
     .main,
     .right {
         width: 100%;
